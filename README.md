@@ -1,4 +1,4 @@
 # mkdocs test
-## try to actions and pages
+## Tests for the actions and pages features
 
 * see: https://den2k6.github.io/mkdocs_test/docs/
